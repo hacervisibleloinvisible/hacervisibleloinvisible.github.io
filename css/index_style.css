@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body{
+	background: url("../images/mapa_quito.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.title{
+	margin-top: 25px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.auspiciantes{
+	padding-left: 0px;
+	padding-right: 0px;	
+	vertical-align: bottom;
+	margin-bottom: 0px;
+	position: fixed;
+	left: 0px;
+	bottom: 0px;	
+}
+
+.icono{
+	text-align: center;
+}
+
+.center{
+	text-align: center;
+	vertical-align: middle;
+	align-content: center;
+	align-items: center;
+	align-self: center;
+		
+}

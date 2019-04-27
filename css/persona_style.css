@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+body{
+	background: url("../images/mapa_quito.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.logo{
+	text-align: left;
+}
+
+.icono_1{
+	text-align: right;
+	position: fixed;
+	right: 0px;
+	z-index: 1;
+	top: 25px;
+	box-shadow: 0px 0px 10px darkgray;
+}
+
+.icono_2{
+	text-align: right;
+	position: fixed;
+	right: 0px;
+	z-index: 1;
+	top: 85px;
+	box-shadow: 0px 0px 10px darkgray;
+}
+
+.cabeza{
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
+
+.auspiciantes{
+	padding-left: 0px;
+	padding-right: 0px;	
+	vertical-align: bottom;
+	margin-bottom: 0px;
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	background-color: #FFFFFF;
+	height: 50px;
+}
+
+.text_1{
+	text-align: left;
+	font-family: Century Gothic, "Helvetica Neue", "Helvetica", "Arial", "Gotham", "sans-serif";
+	color: white;
+	font-size: 10pt;
+	font-weight: normal;
+}
+
+.text_2{
+	text-align: left;
+	font-family: Century Gothic, "Helvetica Neue", "Helvetica", "Arial", "Gotham", "sans-serif";
+	color: white;
+	font-size: 15pt;
+	font-weight: bold;
+}
+
+.text_3{
+	text-align: center;
+	font-family: Century Gothic, "Helvetica Neue", "Helvetica", "Arial", "Gotham", "sans-serif";
+	color: black;
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.personas{
+	margin-bottom: 100px;
+}
+
+.reflexion{
+	
+}
+
+.foto{
+	margin-bottom: 10px;
+}
+
+.textos{
+	margin-bottom: 10px;
+}
+
+.ruta{
+	margin-bottom: 100px;
+}
+
+a{
+	color: black
+}
